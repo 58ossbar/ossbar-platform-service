@@ -71,6 +71,10 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco:flandmark:1.07-1.5.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco:leptonica:1.82.0-1.5.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco:tesseract:5.0.1-1.5.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.openjfx:javafx-graphics:11" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.openjfx:javafx-graphics:win:11" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.openjfx:javafx-base:11" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.openjfx:javafx-base:win:11" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco.javacpp-presets:ffmpeg-platform:4.1-1.4.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco.javacpp-presets:ffmpeg:4.1-1.4.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.bytedeco.javacpp-presets:ffmpeg:android-arm:4.1-1.4.4" level="project" />
@@ -125,6 +129,9 @@
     <orderEntry type="library" name="Maven: commons-configuration:commons-configuration:1.10" level="project" />
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Maven: com.github.penggle:kaptcha:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.jhlabs:filters:2.0.235-1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.9.RELEASE" level="project" />

@@ -140,6 +140,15 @@
 	</build>
 	<profiles>
 		<profile>
+			<id>alone</id>
+			<properties>
+				<group>dev</group>
+			</properties>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+		<profile>
 			<id>dev</id>
 			<properties>
 				<group>dev</group>

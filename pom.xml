@@ -30,8 +30,8 @@
         <ossbar-platform-api.version>1.0.0</ossbar-platform-api.version>
         <ossbar-platform-dubbo.version>1.0.0</ossbar-platform-dubbo.version>
 
-        <!--<maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>-->
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
         <java.version>1.8</java.version>
 
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>

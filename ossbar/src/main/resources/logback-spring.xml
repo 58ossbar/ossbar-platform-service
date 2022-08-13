@@ -5,7 +5,7 @@
 <!--  	<include resource="org/springframework/boot/logging/logback/base.xml"/>  -->
 	<property name="log_path" value="/logs" />
 	<!--设置系统日志目录 -->
-	<springProperty scope="context" name="project-name" source="spring.application.name" defaultValue="ossbar-platform"/>
+	<springProperty scope="context" name="project-name" source="spring.application.name" defaultValue="creatorblue-stp"/>
 	<property name="app_dir" value="${project-name}" />
 
 	<!-- c -->
